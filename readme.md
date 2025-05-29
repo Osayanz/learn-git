@@ -1,7 +1,6 @@
-#Learn about git and github
+# Learn about git and github
 
-
-'''javascript 
+```javascript 
 console.log("Hello World");
 
-'''
+```
